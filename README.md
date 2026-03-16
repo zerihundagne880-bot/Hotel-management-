@@ -35,4 +35,5 @@ Note: Use the default administrative password: admin123
 
 
 Developed by: [zerihundagne880-bot](https://github.com/zerihundagne880-bot)
+
 ​⭐️ If you find this project useful, feel free to give it a star!
