@@ -34,6 +34,7 @@ Note: Use the default administrative password: admin123
 ​Data Validation: Checks for duplicate room assignments and invalid inputs.
 
 
-Developed by: [zerihundagne880-bot](https://github.com/zerihundagne880-bot)
+Developed by:zerihun dagne
+ user name: [zerihundagne880-bot](https://github.com/zerihundagne880-bot)
 
 ​⭐️ If you find this project useful, feel free to give it a star!
